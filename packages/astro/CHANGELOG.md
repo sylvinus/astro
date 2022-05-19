@@ -1,5 +1,11 @@
 # astro
 
+## 1.0.0-beta.32
+
+### Patch Changes
+
+- [#3408](https://github.com/withastro/astro/pull/3408) [`b26d48d2`](https://github.com/withastro/astro/commit/b26d48d275630a0da38edcf2b6832720dc96636f) Thanks [@natemoo-re](https://github.com/natemoo-re)! - Fix hydration when rendering `<head>` elements inside of a component
+
 ## 1.0.0-beta.31
 
 ### Patch Changes
